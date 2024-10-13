@@ -33,7 +33,7 @@
         </nav>
     </header>
 
-    <main>
+ <main>
         <p>Welcome to my website! This is the main content area.</p>
     </main>
 </body>
