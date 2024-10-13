@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Simple Website Header</title>
     <style>
-        /* Basic styling for the header */
         header {
             background-color: #4CAF50;
             color: white;
